@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3205660F-B89D-4B0A-ACE9-0FF2815F17D3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacebookApi/Program.cs">
+    <Files>
+      <File FileName="FacebookApi/Program.cs" Line="169" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FacebookApi" expanded="True">
+            <Node name="FacebookApi" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FacebookApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

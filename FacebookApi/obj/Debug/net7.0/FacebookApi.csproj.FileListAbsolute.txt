@@ -1,0 +1,17 @@
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/bin/Debug/net7.0/FacebookApi
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/bin/Debug/net7.0/FacebookApi.deps.json
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/bin/Debug/net7.0/FacebookApi.runtimeconfig.json
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/bin/Debug/net7.0/FacebookApi.dll
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/bin/Debug/net7.0/FacebookApi.pdb
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/FacebookApi.csproj.AssemblyReference.cache
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/FacebookApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/FacebookApi.AssemblyInfoInputs.cache
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/FacebookApi.AssemblyInfo.cs
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/FacebookApi.csproj.CoreCompileInputs.cache
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/FacebookApi.csproj.CopyComplete
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/FacebookApi.dll
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/refint/FacebookApi.dll
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/FacebookApi.pdb
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/FacebookApi.genruntimeconfig.cache
+/Users/tranvancam/Desktop/HelloC#/FacebookApi/FacebookApi/obj/Debug/net7.0/ref/FacebookApi.dll
