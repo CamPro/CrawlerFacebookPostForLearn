@@ -7,9 +7,9 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using static System.Net.Mime.MediaTypeNames;
 
-string cookie = "sb=OAn3Yh9ih32r23A_eKG_JxgI; datr=OAn3YjXQs3OtGx40StWadeWh; c_user=100084815044718; m_page_voice=100084815044718; dpr=2.5; xs=50%3AhS-fce3yfR1baw%3A2%3A1661224852%3A-1%3A487%3A%3AAcVnx0TSuM-OcJG2MG57GPLAf1irGwxrdVHTnUT7Jm91; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671414736309%2C%22v%22%3A1%7D; fr=01iXkz1XAAwIY5rDl.AWWFJK1a6YHev_41kqMKsFc-df0.Bjn8PD.Ki.AAA.0.0.Bjn9AB.AWVBEVmcsnA; usida=eyJ2ZXIiOjEsImlkIjoiQXJuNGE5bWdzMjUwMyIsInRpbWUiOjE2NzE0MTc4NTh9; wd=1152x179";
+string cookie = "";
 
-string access_token = "EAAGNO4a7r2wBAHGI0v1K8ASB0mQaSa55aEngbAZBJHpPU9s0V1zTWaMpxAYk16ZBCGfySi2Ffgr3duTIQZA5H8vAcj3gymbRpTxEhxAnwYHcRJZAoXyr4X5MzL7gjTmY3PMiUB9UvbZBoPCn5OJZCNUl7FiyLzV5rHu1gyNL2Y4AZDZD";
+string access_token = "";
 
 string fields = "id,created_time,from,full_picture,message,reactions.limit(1).summary(true)";
 
